@@ -1,0 +1,16 @@
+VALIDATION REPORT: ae_monthly_clean.csv
+Raw rows read: 1190
+Aggregate (TOTAL) rows excluded: 6
+Clean rows written: 1184
+Months covered: Oct 2025 to Mar 2026
+Orgs in trend population (Type 1 in all months): 121
+
+National Type 1 monthly summary (trend population):
+            type1_attendances  perf_pct  dta_12hr_waits
+month                                                  
+2025-10-01            1449480      59.9           54326
+2025-11-01            1420033      60.1           50648
+2025-12-01            1407641      59.3           50789
+2026-01-01            1405035      57.0           71517
+2026-02-01            1271830      59.1           54649
+2026-03-01            1451010      63.9           46665
