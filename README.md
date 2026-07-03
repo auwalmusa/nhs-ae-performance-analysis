@@ -16,7 +16,7 @@ Two-page interactive Power BI report (`dashboard/nhs_ae_winter_performance.pbix`
 
 **Page 2: Trust drill-down.** Searchable single-select trust slicer driving per-trust KPIs and trend, with a deterioration and recovery ranking table. Case study: Chesterfield Royal fell 19.0 points into January, then recovered 27.9 points to finish above its starting position.
 
-![Trust drill-down](dashboard/page2_trust_drilldown.png)
+![Trust drill-down](reports/Trust-drill-down.png)
 
 ## SQL analysis
 
