@@ -12,7 +12,7 @@ Two-page interactive Power BI report (`dashboard/nhs_ae_winter_performance.pbix`
 
 **Page 1: National overview.** KPI row (latest month), six-month trend with the January trough, regional deterioration ranking, 12-hour wait spike, and the written conclusion.
 
-![National overview](dashboard/page1_national_overview.png)
+![National overview](reports/National-overview.png)
 
 **Page 2: Trust drill-down.** Searchable single-select trust slicer driving per-trust KPIs and trend, with a deterioration and recovery ranking table. Case study: Chesterfield Royal fell 19.0 points into January, then recovered 27.9 points to finish above its starting position.
 
